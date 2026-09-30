@@ -1,0 +1,1 @@
+"""Pacote gerenciador-usuarios-tui."""

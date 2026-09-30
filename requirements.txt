@@ -1,0 +1,1 @@
+# Somente Python 3 stdlib (hashlib, json, getpass) — nada para instalar
